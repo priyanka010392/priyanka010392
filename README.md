@@ -8,7 +8,7 @@
 
 ---
 
-[![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka010392)]
+[Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka010392&count_private=true&show_icons=true&theme=radical)
 
 <!---
 priyanka010392/priyanka010392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
