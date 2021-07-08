@@ -7,8 +7,18 @@
 - 💞️ I’m looking to collaborate on automated Infrastructure and Code piplelines either on AWS stack or Azure (Cloud Formation, ARM Templates, Terraform)
 
 ---
+<details>
+<summary>📊 Priyanka's GitHub stats</summary>
 
-[Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka010392&count_private=true&show_icons=true&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priyanka010392&count_private=true&show_icons=true&theme=tokyonight"/>
+
+</details>
+
+
+ ![Visitor Count](https://profile-counter.glitch.me/{priyanka010392}/count.svg)
+
+
+[Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyanka010392&count_private=true&show_icons=true&theme=tokyonight)
 
 <!---
 priyanka010392/priyanka010392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
