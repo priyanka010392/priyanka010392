@@ -5,14 +5,14 @@
 ### My Technology Stack 👩🏻‍💻
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure" height="40"/> 
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="26px" height="26px" style="padding-right: 1%;"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" width="26px" height="26px" style="padding-right: 1%;"/> 
+<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws" width="26px" height="26px" style="padding-right: 1%;"/> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure" width="26px" height="26px" style="padding-right: 1%;"/> 
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="26px" height="26px" style="padding-right: 1%;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="26px" height="26px" style="padding-right: 1%;"/>
+<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="26px" height="26px" style="padding-right: 1%;"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="26px" height="26px" style="padding-right: 1%;"/> 
 </p>
 
 - 👁️ I’m interested in Web Apps and API development, Designing Solutions on public clouds such as AWS & Azure
@@ -21,13 +21,13 @@
 
 ---
 <details>
-<summary> <b>Let's Check Some Stats 📊</b></summary>
+<summary> 📊 <b>Let's Check Some Stats </b></summary>
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priyanka010392&count_private=true&show_icons=true&theme=tokyonight"/>
 
 </details>
 
-<b> Profile Visitors </b>👀 <br><br>
+👀<b> Profile Visitors </b> <br><br>
 ![Visitor Count](https://profile-counter.glitch.me/{priyanka010392}/count.svg)
 
 
