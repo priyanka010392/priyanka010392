@@ -14,7 +14,7 @@
 
 </details>
 
-👀<b> Profile Visitors </b> <br>
+👀<b> Profile Visitors </b> <br><br>
 ![Visitor Count](https://profile-counter.glitch.me/{priyanka010392}/count.svg)
 
 
