@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Priyanka Agarwal
+### Hi, I’m Priyanka Agarwal 👋
+
+### Connect with me on
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
 - 👀 I’m interested in Web Apps and API development, Designing Solutions on public clouds such as AWS & Azure
 - 🌱 I’m currently learning about Azure Services
 - 💞️ I’m looking to collaborate on automated infrastructure and Code piplelines either on AWS stack or Azure (Cloud Formation, ARM Templates, Terraform)
-- 📫 How to reach me 
+
+
 
 <!---
 priyanka010392/priyanka010392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
