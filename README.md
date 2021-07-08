@@ -8,14 +8,14 @@
 
 ---
 <details>
-<summary>📊 🗠 Let's Check Some Stats</summary>
+<summary>📊 <h1>Let's Check Some Stats</h1></summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priyanka010392&count_private=true&show_icons=true&theme=tokyonight"/>
 
 </details>
 
-
- ![Visitor Count](https://profile-counter.glitch.me/{priyanka010392}/count.svg)
+# Profile Visitors
+![Visitor Count](https://profile-counter.glitch.me/{priyanka010392}/count.svg)
 
 
 
