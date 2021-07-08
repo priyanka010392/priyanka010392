@@ -20,11 +20,6 @@
 - 💞️ I’m looking to collaborate on automated Infrastructure and Code piplelines either on AWS stack or Azure (Cloud Formation, ARM Templates, Terraform)
 
 ---
-<details>
-  <summary>:zap: <b>Recent GitHub Activity</b></summary>  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-</details>
 
 <details>
 <summary> 📊 <b>Let's Check Some Stats</b></summary>
