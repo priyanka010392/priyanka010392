@@ -1,6 +1,6 @@
 ### Hi, I’m Priyanka Agarwal 👋
 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][https://www.linkedin.com/in/priyanka-agarwal-162247142/]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn](https://www.linkedin.com/in/priyanka-agarwal-162247142/)
 
 - 👀 I’m interested in Web Apps and API development, Designing Solutions on public clouds such as AWS & Azure
 - 🌱 I’m currently learning about Azure Services
