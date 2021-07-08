@@ -9,12 +9,12 @@
 ---
 <details>
 <summary>📊 <b>Let's Check Some Stats</b></summary>
-
+<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priyanka010392&count_private=true&show_icons=true&theme=tokyonight"/>
 
 </details>
 
-<b> Profile Visitors </b>
+👀<b> Profile Visitors </b> <br>
 ![Visitor Count](https://profile-counter.glitch.me/{priyanka010392}/count.svg)
 
 
