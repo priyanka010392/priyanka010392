@@ -21,13 +21,13 @@
 
 ---
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>  
+  <summary>:zap: <b>Recent GitHub Activity</b></summary>  
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
 
 <details>
-<summary> 📊 <b>Let's Check Some Stats </b></summary>
+<summary> 📊 <b>Let's Check Some Stats</b></summary>
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=priyanka010392&count_private=true&show_icons=true&theme=tokyonight"/>
 
