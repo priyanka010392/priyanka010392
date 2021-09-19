@@ -18,7 +18,7 @@
 
 - 👁️ I’m interested in Web Apps and API development, Designing Solutions on public clouds such as AWS & Azure
 - 🌱 I’m currently learning about Azure Services
-- 💞️ I’m looking to collaborate on automated Infrastructure and Code piplelines either on AWS stack or Azure (Cloud Formation, ARM Templates, Terraform)
+- 💞️ I’m looking to collaborate on open source projects, automated Infrastructure and Code piplelines (Cloud Formation, ARM Templates, Terraform) and on AWS or Azure cloud platforms
 
 ---
 
