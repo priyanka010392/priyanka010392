@@ -10,6 +10,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="aws" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="30" height="30"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" alt="Kubernetes" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="30" height="30"/>&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
